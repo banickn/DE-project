@@ -1,0 +1,6 @@
+DE-project/__pycache__/api.cpython-310.pyc
+DE-project/airflow/logs/*
+DE-project/airflow/airflow.db
+DE-project/airflow/airflow.cfg
+DE-project/airflow/standalone_admin_password.txt
+DE-project/airflow/airflow-webserver.pid
