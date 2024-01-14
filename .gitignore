@@ -4,3 +4,4 @@ DE-project/airflow/airflow.db
 DE-project/airflow/airflow.cfg
 DE-project/airflow/standalone_admin_password.txt
 DE-project/airflow/airflow-webserver.pid
+DE-project/airflow/dags/__pycache__/daghello.cpython-310.pyc

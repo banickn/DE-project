@@ -31,6 +31,7 @@ RUN pip install --upgrade pip
 RUN pip install fastapi
 RUN pip install uvicorn
 RUN pip install kubernetes
+RUN pip install pandas
 RUN pip install --user virtualenv
 RUN pip install "apache-airflow==2.8.0"
 ENV AIRFLOW_HOME=/workspaces/DockerTest/DE-project/airflow
